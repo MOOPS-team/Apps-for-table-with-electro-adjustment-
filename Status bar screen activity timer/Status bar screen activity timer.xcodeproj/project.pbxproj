@@ -1,0 +1,345 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EF3B035B26487BF1009A4A99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3B035A26487BF1009A4A99 /* AppDelegate.swift */; };
+		EF3B035D26487BF1009A4A99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3B035C26487BF1009A4A99 /* ViewController.swift */; };
+		EF3B036026487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EF3B035E26487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodeld */; };
+		EF3B036226487BF1009A4A99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF3B036126487BF1009A4A99 /* Assets.xcassets */; };
+		EF3B036526487BF1009A4A99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF3B036326487BF1009A4A99 /* Main.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EF3B035726487BF1009A4A99 /* Status bar screen activity timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Status bar screen activity timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF3B035A26487BF1009A4A99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EF3B035C26487BF1009A4A99 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EF3B035F26487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Status_bar_screen_activity_timer.xcdatamodel; sourceTree = "<group>"; };
+		EF3B036126487BF1009A4A99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EF3B036426487BF1009A4A99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EF3B036626487BF1009A4A99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF3B036726487BF1009A4A99 /* Status_bar_screen_activity_timer.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Status_bar_screen_activity_timer.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EF3B035426487BF1009A4A99 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EF3B034E26487BF1009A4A99 = {
+			isa = PBXGroup;
+			children = (
+				EF3B035926487BF1009A4A99 /* Status bar screen activity timer */,
+				EF3B035826487BF1009A4A99 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EF3B035826487BF1009A4A99 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF3B035726487BF1009A4A99 /* Status bar screen activity timer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EF3B035926487BF1009A4A99 /* Status bar screen activity timer */ = {
+			isa = PBXGroup;
+			children = (
+				EF3B035A26487BF1009A4A99 /* AppDelegate.swift */,
+				EF3B035C26487BF1009A4A99 /* ViewController.swift */,
+				EF3B036126487BF1009A4A99 /* Assets.xcassets */,
+				EF3B036326487BF1009A4A99 /* Main.storyboard */,
+				EF3B036626487BF1009A4A99 /* Info.plist */,
+				EF3B036726487BF1009A4A99 /* Status_bar_screen_activity_timer.entitlements */,
+				EF3B035E26487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodeld */,
+			);
+			path = "Status bar screen activity timer";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EF3B035626487BF1009A4A99 /* Status bar screen activity timer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF3B036A26487BF1009A4A99 /* Build configuration list for PBXNativeTarget "Status bar screen activity timer" */;
+			buildPhases = (
+				EF3B035326487BF1009A4A99 /* Sources */,
+				EF3B035426487BF1009A4A99 /* Frameworks */,
+				EF3B035526487BF1009A4A99 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Status bar screen activity timer";
+			productName = "Status bar screen activity timer";
+			productReference = EF3B035726487BF1009A4A99 /* Status bar screen activity timer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EF3B034F26487BF1009A4A99 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0940;
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = "Павло Сливка";
+				TargetAttributes = {
+					EF3B035626487BF1009A4A99 = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
+				};
+			};
+			buildConfigurationList = EF3B035226487BF1009A4A99 /* Build configuration list for PBXProject "Status bar screen activity timer" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EF3B034E26487BF1009A4A99;
+			productRefGroup = EF3B035826487BF1009A4A99 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EF3B035626487BF1009A4A99 /* Status bar screen activity timer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EF3B035526487BF1009A4A99 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF3B036226487BF1009A4A99 /* Assets.xcassets in Resources */,
+				EF3B036526487BF1009A4A99 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EF3B035326487BF1009A4A99 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF3B036026487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodeld in Sources */,
+				EF3B035D26487BF1009A4A99 /* ViewController.swift in Sources */,
+				EF3B035B26487BF1009A4A99 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EF3B036326487BF1009A4A99 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF3B036426487BF1009A4A99 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EF3B036826487BF1009A4A99 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EF3B036926487BF1009A4A99 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		EF3B036B26487BF1009A4A99 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Status bar screen activity timer/Status_bar_screen_activity_timer.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Status bar screen activity timer/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "p.a.slyvka.Status-bar-screen-activity-timer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		EF3B036C26487BF1009A4A99 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = "Status bar screen activity timer/Status_bar_screen_activity_timer.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "Status bar screen activity timer/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "p.a.slyvka.Status-bar-screen-activity-timer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF3B035226487BF1009A4A99 /* Build configuration list for PBXProject "Status bar screen activity timer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF3B036826487BF1009A4A99 /* Debug */,
+				EF3B036926487BF1009A4A99 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF3B036A26487BF1009A4A99 /* Build configuration list for PBXNativeTarget "Status bar screen activity timer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF3B036B26487BF1009A4A99 /* Debug */,
+				EF3B036C26487BF1009A4A99 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		EF3B035E26487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				EF3B035F26487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodel */,
+			);
+			currentVersion = EF3B035F26487BF1009A4A99 /* Status_bar_screen_activity_timer.xcdatamodel */;
+			path = Status_bar_screen_activity_timer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = EF3B034F26487BF1009A4A99 /* Project object */;
+}
