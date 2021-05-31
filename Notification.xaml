@@ -1,0 +1,47 @@
+﻿<Window x:Class="Table.Notification"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Table"
+        mc:Ignorable="d"
+        Title="Notification" Height="100" Width="300" ResizeMode="NoResize" WindowStyle="None"
+        Topmost="True"
+        ShowInTaskbar="False">
+
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Loaded">
+            <BeginStoryboard>
+                <Storyboard Duration="00:00:3" Storyboard.TargetProperty="Opacity">
+                    <DoubleAnimation From="0" To="1"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+
+    <Grid Background="#FFB2ABAB">
+        <Label x:Name="NotificationLabel" Content="Accept or decline the command"
+               HorizontalContentAlignment="Center"
+               VerticalContentAlignment="Center"
+               HorizontalAlignment="Left"
+               FontSize="20"
+               VerticalAlignment="Top"
+               Height="53" Width="300"/>
+        <Button x:Name="Decline_Button"
+                Content="Decline"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Width="91" Height="32" Margin="199,58,0,0"
+                Click="Decline_Button_Click"
+                Background="#FF5A5964" Foreground="Black" BorderBrush="#FF3C3333"/>
+        <Button x:Name="Accept_Button"
+                Content="Accept"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Width="91" Height="32" Margin="97,58,0,0"
+                Click="Accept_Button_Click"
+                Background="#FF5A5964" BorderBrush="#FF3C3333" Foreground="Black"
+                />
+
+    </Grid>
+</Window>
