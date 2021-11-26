@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZP4H1DLmRab0OIWg4YvS+otWLjK2euWz87G9FrhI6vQC2ndEwmygvb5t0a/7I/TDNfWpf24e+T+zberVOQnDzw==",
+  "success": true,
+  "projectFilePath": "C:\\discovery bluethooth LE\\BluethoothLE\\MyConsoleAppp\\MyConsoleAppp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
