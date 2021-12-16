@@ -1,0 +1,5 @@
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\netcoreapp3.0\BluethoothLE.csproj.AssemblyReference.cache
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\netcoreapp3.0\BluethoothLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\netcoreapp3.0\BluethoothLE.AssemblyInfoInputs.cache
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\netcoreapp3.0\BluethoothLE.AssemblyInfo.cs
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\netcoreapp3.0\BluethoothLE.csproj.CoreCompileInputs.cache

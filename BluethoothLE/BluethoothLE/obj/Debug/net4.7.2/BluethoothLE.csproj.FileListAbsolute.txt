@@ -1,0 +1,13 @@
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.csproj.AssemblyReference.cache
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.AssemblyInfoInputs.cache
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.AssemblyInfo.cs
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.csproj.CoreCompileInputs.cache
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\bin\Debug\net4.7.2\BluethoothLE.dll
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\bin\Debug\net4.7.2\BluethoothLE.pdb
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\bin\Debug\net4.7.2\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\bin\Debug\net4.7.2\Windows.winmd
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\bin\Debug\net4.7.2\System.Runtime.InteropServices.WindowsRuntime.xml
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.csproj.CopyComplete
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.dll
+C:\discovery bluethooth LE\BluethoothLE\BluethoothLE\obj\Debug\net4.7.2\BluethoothLE.pdb

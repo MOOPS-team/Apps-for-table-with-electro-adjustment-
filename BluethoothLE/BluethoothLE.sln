@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BluethoothLE", "BluethoothLE\BluethoothLE.csproj", "{A91E01B4-2619-43D9-8D53-0B806AA320FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleAppp", "MyConsoleAppp\MyConsoleAppp.csproj", "{B15F02D7-DE0A-4EDA-92FC-6CD2B3CF8E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91E01B4-2619-43D9-8D53-0B806AA320FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91E01B4-2619-43D9-8D53-0B806AA320FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91E01B4-2619-43D9-8D53-0B806AA320FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91E01B4-2619-43D9-8D53-0B806AA320FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15F02D7-DE0A-4EDA-92FC-6CD2B3CF8E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15F02D7-DE0A-4EDA-92FC-6CD2B3CF8E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15F02D7-DE0A-4EDA-92FC-6CD2B3CF8E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15F02D7-DE0A-4EDA-92FC-6CD2B3CF8E81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620FBF68-590C-41B0-95E9-AC85F20385F7}
+	EndGlobalSection
+EndGlobal
